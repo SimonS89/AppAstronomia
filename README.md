@@ -1,4 +1,4 @@
-# AppAstronomia
+# astroApp
 
 Proyecto conjunto para UX/UI. Prototipado de aplicación mobile para conocer Sitios de avistamientos astronomicos, realizado en Figma.
 
